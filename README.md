@@ -112,82 +112,12 @@ I use AI tools for research, prototyping, code review, testing and workflow auto
 - **Implementation:** I used Replit Agent to build the reporting flow, match notifications and email integration.
 - **Verification:** I used Claude for static code review and Codex to draft test scenarios. I checked that reports matched regardless of which was submitted first and that the same match triggered only one notification.
 
-## 🚀 Featured projects
-
-### 📱 [HabitTracker](https://github.com/DaniilsLukaMiskins/HabitTracker)
-
-**Android application** &nbsp;·&nbsp; `C#` `.NET MAUI` `ASP.NET Core` `SQL Server`
-
-Choose a date, mark a habit as complete, and review its history. Archiving a habit preserves its past completions.
-
-**What I built**  
-I started with a console app to model habits and daily completions. I then built the Android client with MAUI and MVVM, added REST endpoints for completing and archiving habits, and connected the API to SQL Server.
-
+### 🚀 Featured projects
+ 
+| 📱 [HabitTracker](https://github.com/DaniilsLukaMiskins/HabitTracker) (main project)<br>Android habit tracker: mark habits done by date and review history. Archiving a habit keeps its past completions. **My part:** MAUI/MVVM client, REST endpoints and the SQL Server layer.<br>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=flat-square) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square) |  |
+| --- | --- |
+| 🎮 [Nemesis AI](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod) (team hackathon)<br>Minecraft boss that changes tactics mid-fight. **My part:** initial enemy, selectable combat tactics, parasite lifecycle. [My commits](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod/commits?author=DaniilsLukaMiskins)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Minecraft%20Fabric-DBD0B4?style=flat-square) | 🎬 [Cineca](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca) (team project)<br>Film community with reviews, watchlists and recommendations. **My part:** registration/login, four user roles with permission checks, review moderation, a fix for recommendations that suggested films already on the watchlist. [My commits](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca/commits?author=DaniilsLukaMiskins)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB%20API-01B4E4?style=flat-square) |
+| 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai) (team hackathon)<br>Checks the primary telemetry feed, switches to a backup when needed and blocks the input if both fail; DataHub traces affected components. **My part:** telemetry validator, fallback manager and tests. [My commits](https://github.com/Sen2x/f1-raceguard-ai/commits?author=DaniilsLukaMiskins) · [Demo](https://youtu.be/F8BEN-nhEmY)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai) (team hackathon)<br>Upload a lunar terrain image, set spacecraft size and safety margin, get three ranked landing zones. **My part:** frontend and integration with the terrain-analysis API. [My commits](https://github.com/Sen2x/lunarsafe-ai/commits?author=DaniilsLukaMiskins)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder)<br>C# console tool that finds duplicate files in Downloads by SHA-256 and writes grouped results to a CSV for manual review.<br>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SHA-256](https://img.shields.io/badge/SHA--256-444?style=flat-square) | |
+ 
 ---
-
-### 🎮 [Nemesis AI](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod)
-
-**Game AI · Team hackathon** &nbsp;·&nbsp; `Java` `Minecraft Fabric`
-
-A Minecraft boss that changes tactics during a fight. Hit it repeatedly with projectiles and it can start closing the distance in a zigzag. Repeated melee attacks can trigger delayed strikes.
-
-**My contribution**  
-I implemented the initial enemy, added selectable combat tactics, and built its parasite lifecycle. Adult enemies infect farm animals, juveniles emerge and hunt, and surviving juveniles grow into adults.
-
-[View my commits →](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod/commits?author=DaniilsLukaMiskins)
-
----
-
-### 🎬 [Cineca](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca)
-
-**Web application · Team project** &nbsp;·&nbsp; `PHP` `Laravel` `Blade` `TMDB API`
-
-A film community where users review movies, maintain watchlists, and discover films through recommendations.
-
-**My contribution**  
-I built registration, login and logout, set up four user roles, and added permission checks for restricted actions. I also worked on review moderation and fixed a recommendation bug that suggested films already on the user's watchlist.
-
-[View my commits →](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca/commits?author=DaniilsLukaMiskins)
-
----
-
-### 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai)
-
-**Telemetry validation · Team hackathon**  
-`Python` `FastAPI` `DataHub` `MCP`
-
-A race strategy system needs to decide whether it can trust incoming sensor data. RaceGuard checks the primary telemetry feed, switches to a valid backup when needed, and blocks the input if both feeds fail. The system uses DataHub to trace which downstream components are affected.
-
-**My contribution**  
-I wrote the telemetry validator and fallback manager that decide which feed reaches the strategy system. I also added tests for fallback behavior and malformed timestamps.
-
-[My commits](https://github.com/Sen2x/f1-raceguard-ai/commits?author=DaniilsLukaMiskins) · [Watch the demo](https://youtu.be/F8BEN-nhEmY)
-
----
-
-### 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai)
-
-**Computer vision · AI Factory / Native.builder Hackathon**  
-`TypeScript` `React` `Native.builder` · `FastAPI` `OpenCV`
-
-Upload an image of lunar terrain, choose a spacecraft size and safety margin, and see three candidate landing zones ranked on the image. Changing the mission parameters lets you explore how much clearance each site offers.
-
-**My contribution**  
-I built the frontend and connected it to the terrain-analysis API. I added controls for spacecraft size and safety margin, integrated those parameters into the landing analysis, and visualized the candidate zones in the interface.
-
-[My commits](https://github.com/Sen2x/lunarsafe-ai/commits?author=DaniilsLukaMiskins) · [Team roles](https://github.com/Sen2x/lunarsafe-ai#team)
-
----
-
-### 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder) · Duplicate file finder
-
-**C# console application** &nbsp;·&nbsp; `C#` `.NET` `System.IO` `SHA-256`
-
-A tool I built to help clean up the Downloads folder. If `invoice.pdf` and `old/invoice (1).pdf` contain the same data, DupeFinder lists them together so you can decide which copy to keep.
-
-**How it works**
-- Scans the current user's Downloads folder, including all subfolders.
-- Reads each file as a stream and computes its SHA-256 hash, so renamed copies still match.
-- Writes numbered groups of duplicates to `all_files.csv` on the desktop. Each group lists the full path to every copy for manual review.
-
-[View the implementation →](https://github.com/DaniilsLukaMiskins/DupeFinder/blob/master/DupeFinder/Program.cs)
