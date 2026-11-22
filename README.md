@@ -31,14 +31,92 @@ Hi, I'm Luka. I'm a second-year Computer Science student at the **University of 
 - 🎯 **My goal:** join a development team for my university internship, contribute code to a project people use, and learn how experienced developers test and review changes.
 - ⚽ **Outside programming:** football, video games, films, literature and travel. I speak Latvian, English and Russian, and hold a German B2 certificate.
 
-### 🚀 Featured projects
----
- 
-| 📱 [HabitTracker](https://github.com/DaniilsLukaMiskins/HabitTracker) (main project)<br>Android habit tracker: mark habits done by date and review history. Archiving a habit keeps its past completions. **My part:** MAUI/MVVM client, REST endpoints and the SQL Server layer.<br>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=flat-square) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square) |  |
-| --- | --- |
-| 🎮 [Nemesis AI](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod) (team hackathon)<br>Minecraft boss that changes tactics mid-fight. **My part:** initial enemy, selectable combat tactics, parasite lifecycle. [My commits](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod/commits?author=DaniilsLukaMiskins)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Minecraft%20Fabric-DBD0B4?style=flat-square) | 🎬 [Cineca](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca) (team project)<br>Film community with reviews, watchlists and recommendations. **My part:** registration/login, four user roles with permission checks, review moderation, a fix for recommendations that suggested films already on the watchlist. [My commits](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca/commits?author=DaniilsLukaMiskins)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB%20API-01B4E4?style=flat-square) |
-| 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai) (team hackathon)<br>Checks the primary telemetry feed, switches to a backup when needed and blocks the input if both fail; DataHub traces affected components. **My part:** telemetry validator, fallback manager and tests. [My commits](https://github.com/Sen2x/f1-raceguard-ai/commits?author=DaniilsLukaMiskins) · [Demo](https://youtu.be/F8BEN-nhEmY)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai) (team hackathon)<br>Upload a lunar terrain image, set spacecraft size and safety margin, get three ranked landing zones. **My part:** frontend and integration with the terrain-analysis API. [My commits](https://github.com/Sen2x/lunarsafe-ai/commits?author=DaniilsLukaMiskins)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder)<br>C# console tool that finds duplicate files in Downloads by SHA-256 and writes grouped results to a CSV for manual review.<br>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SHA-256](https://img.shields.io/badge/SHA--256-444?style=flat-square) | |
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [HabitTracker](https://github.com/DaniilsLukaMiskins/HabitTracker)
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=flat-square) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
+
+An Android app for recording habits by date and reviewing their history. Archiving a habit preserves its past completions.
+
+**I built** the MAUI client using MVVM, the REST endpoints for recording completions and archiving habits, and the SQL Server storage layer.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![DataHub](https://img.shields.io/badge/DataHub-2167A8?style=flat-square)
+
+Our hackathon prototype checks whether a race strategy system can trust its telemetry. It switches to a backup feed when the primary fails and blocks input if both fail.
+
+**I built** the telemetry validator and fallback manager, and wrote tests for invalid inputs, including malformed timestamps.
+
+[My commits](https://github.com/Sen2x/f1-raceguard-ai/commits?author=DaniilsLukaMiskins) · [Watch demo](https://youtu.be/F8BEN-nhEmY)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Nemesis AI](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Minecraft Fabric](https://img.shields.io/badge/Minecraft%20Fabric-625D52?style=flat-square)
+
+A Minecraft boss that changes tactics mid-fight. Repeated projectile hits can make it approach the player in a zigzag.
+
+**I built** the initial enemy, its selectable combat tactics, and a parasite lifecycle in which juveniles emerge from infected animals, hunt, and grow into adults.
+
+[My commits](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod/commits?author=DaniilsLukaMiskins)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+
+A hackathon prototype that ranks three candidate landing zones on an image of lunar terrain.
+
+**I built** the frontend and connected it to the terrain-analysis API. Users can change the spacecraft size and safety margin, then see where the candidate zones fall on the image.
+
+[My commits](https://github.com/Sen2x/lunarsafe-ai/commits?author=DaniilsLukaMiskins)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [Cineca](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TMDB API](https://img.shields.io/badge/TMDB%20API-16819A?style=flat-square)
+
+A film community for writing reviews, maintaining watchlists and discovering movies.
+
+**I built** registration, login and permission checks for four user roles. I also worked on review moderation and fixed a bug that recommended films already on a user's watchlist.
+
+[My commits](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca/commits?author=DaniilsLukaMiskins)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder)
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square) ![SHA-256](https://img.shields.io/badge/SHA--256-365C70?style=flat-square)
+
+A console tool for cleaning up Downloads. It can find the same file saved under different names in different subfolders.
+
+**I built** a recursive scanner that hashes file contents with SHA-256 and groups matching copies. A report on the desktop lists every full path so the user can decide which copy to keep.
+
+[View source](https://github.com/DaniilsLukaMiskins/DupeFinder/blob/master/DupeFinder/Program.cs)
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech stack
 
