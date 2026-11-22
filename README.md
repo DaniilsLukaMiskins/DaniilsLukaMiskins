@@ -161,8 +161,15 @@ I defined the matching rules, used Replit Agent to build the prototype, and test
 
 ---
 
-### 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder)
+### 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder) · Duplicate file finder
 
-**Command-line utility** &nbsp;·&nbsp; `C#` `.NET` `SHA-256` `CSV`
+**C# console application** &nbsp;·&nbsp; `C#` `.NET` `System.IO` `SHA-256`
 
+A tool I built to help clean up the Downloads folder. If `invoice.pdf` and `old/invoice (1).pdf` contain the same data, DupeFinder lists them together so you can decide which copy to keep.
 
+**How it works**
+- Scans the current user's Downloads folder, including all subfolders.
+- Reads each file as a stream and computes its SHA-256 hash, so renamed copies still match.
+- Writes numbered groups of duplicates to `all_files.csv` on the desktop. Each group lists the full path to every copy for manual review.
+
+[View the implementation →](https://github.com/DaniilsLukaMiskins/DupeFinder/blob/master/DupeFinder/Program.cs)
