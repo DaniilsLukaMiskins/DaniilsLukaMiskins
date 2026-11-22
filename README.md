@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" alt="Daņiils Luka Miškins — Software Engineering · University of Latvia" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102538,60:14586B,100:16877D&amp;height=175&amp;section=header&amp;text=Da%C5%86iils%20Luka%20Mi%C5%A1kins&amp;fontColor=FFFFFF&amp;fontSize=40&amp;fontAlignY=39&amp;desc=Software%20Engineering%20%C2%B7%20University%20of%20Latvia&amp;descAlignY=61&amp;descSize=16" />
+<img width="100%" alt="Daņiils Luka Miškins — Computer Science student · University of Latvia" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102538,60:14586B,100:16877D&amp;height=175&amp;section=header&amp;text=Da%C5%86iils%20Luka%20Mi%C5%A1kins&amp;fontColor=FFFFFF&amp;fontSize=40&amp;fontAlignY=39&amp;desc=Software%20Engineering%20%C2%B7%20University%20of%20Latvia&amp;descAlignY=61&amp;descSize=16" />
 
 **Second-year Computer Science student in Riga, Latvia**  
-Looking for a software engineering internship starting in **May 2027**.
+Looking for a software engineering and IT internship starting in **May 2027**.
 
 <a href="https://www.linkedin.com/in/daniils-luka-miskins"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="42" alt="Connect on LinkedIn" /></a>
 &nbsp;
