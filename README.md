@@ -26,10 +26,19 @@
 
 Hi, I'm Luka. I'm a second-year Computer Science student at the **University of Latvia**, specializing in **Software Engineering**. My weighted average is **9.033/10**, and I hold a university scholarship for academic achievement.
 
-- 🎮 **What interests me:** game development, AI and cybersecurity. I especially enjoy games that react to how someone plays. That interest led me to build combat mechanics for a Minecraft boss at a team hackathon.
+- 🎮 **What interests me:** game development, AI and cybersecurity, but am eager to learn every aspect of computer science. I especially enjoy games that react to how someone plays. That interest led me to build combat mechanics for a Minecraft boss at a team hackathon.
 - 📚 **What I'm learning:** C# and .NET through an Android habit tracker. I'm working on how a MAUI screen gets its data from a ViewModel, how the client calls a REST API, and how that API saves changes in SQL Server. I've also completed Cisco's *CCNA: Introduction to Networks* course.
 - 🎯 **My goal:** join a development team for my university internship, contribute code to a project people use, and learn how experienced developers test and review changes.
 - ⚽ **Outside programming:** football, video games, films, literature and travel. I speak Latvian, English and Russian, and hold a German B2 certificate.
+
+### 🚀 Featured projects
+---
+ 
+| 📱 [HabitTracker](https://github.com/DaniilsLukaMiskins/HabitTracker) (main project)<br>Android habit tracker: mark habits done by date and review history. Archiving a habit keeps its past completions. **My part:** MAUI/MVVM client, REST endpoints and the SQL Server layer.<br>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=flat-square) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square) |  |
+| --- | --- |
+| 🎮 [Nemesis AI](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod) (team hackathon)<br>Minecraft boss that changes tactics mid-fight. **My part:** initial enemy, selectable combat tactics, parasite lifecycle. [My commits](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod/commits?author=DaniilsLukaMiskins)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Minecraft%20Fabric-DBD0B4?style=flat-square) | 🎬 [Cineca](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca) (team project)<br>Film community with reviews, watchlists and recommendations. **My part:** registration/login, four user roles with permission checks, review moderation, a fix for recommendations that suggested films already on the watchlist. [My commits](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca/commits?author=DaniilsLukaMiskins)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB%20API-01B4E4?style=flat-square) |
+| 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai) (team hackathon)<br>Checks the primary telemetry feed, switches to a backup when needed and blocks the input if both fail; DataHub traces affected components. **My part:** telemetry validator, fallback manager and tests. [My commits](https://github.com/Sen2x/f1-raceguard-ai/commits?author=DaniilsLukaMiskins) · [Demo](https://youtu.be/F8BEN-nhEmY)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai) (team hackathon)<br>Upload a lunar terrain image, set spacecraft size and safety margin, get three ranked landing zones. **My part:** frontend and integration with the terrain-analysis API. [My commits](https://github.com/Sen2x/lunarsafe-ai/commits?author=DaniilsLukaMiskins)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder)<br>C# console tool that finds duplicate files in Downloads by SHA-256 and writes grouped results to a CSV for manual review.<br>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SHA-256](https://img.shields.io/badge/SHA--256-444?style=flat-square) | |
 
 ## 🛠️ Tech stack
 
@@ -41,11 +50,10 @@ Hi, I'm Luka. I'm a second-year Computer Science student at the **University of 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="42" alt="Java" title="Java" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="42" alt="C#" title="C#" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="42" alt="JavaScript" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="42" alt="TypeScript" title="TypeScript" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="42" alt="PHP" title="PHP" />
 </p>
 
-`C++` `Python` `Java` `C#` `JavaScript` `TypeScript` `PHP` `SQL`
+`C++` `Python` `Java` `C#` `JavaScript` `PHP` `SQL`
 
 ### IDEs & editors
 
@@ -62,20 +70,9 @@ Hi, I'm Luka. I'm a second-year Computer Science student at the **University of 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="42" alt="HTML" title="HTML" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="42" alt="CSS" title="CSS" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="42" alt="React" title="React" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="42" alt="Express" title="Express" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="42" alt="Laravel" title="Laravel" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="42" alt=".NET" title=".NET" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="42" alt="PostgreSQL" title="PostgreSQL" />
 </p>
-
-| Project | Technologies I used |
-| --- | --- |
-| **HabitTracker** · Android app | .NET MAUI, MVVM, ASP.NET Core Web API, SQL Server, Android Emulator |
-| **Cineca** · Film community | PHP, Laravel, Blade, HTML, CSS, TMDB API |
-| **F1 RaceGuard AI** · Telemetry validation | Python, telemetry validation, fallback logic, automated tests |
-| **LunarSafe AI** · Landing-zone analysis | TypeScript, React, Native.builder, frontend integration with a FastAPI/OpenCV backend |
-| **Nemesis AI** · Game development | Java, Minecraft Fabric, enemy behavior and combat mechanics |
 
 ### 🖥️ Operating systems & developer tools
 
@@ -112,12 +109,4 @@ I use AI tools for research, prototyping, code review, testing and workflow auto
 - **Implementation:** I used Replit Agent to build the reporting flow, match notifications and email integration.
 - **Verification:** I used Claude for static code review and Codex to draft test scenarios. I checked that reports matched regardless of which was submitted first and that the same match triggered only one notification.
 
-### 🚀 Featured projects
- 
-| 📱 [HabitTracker](https://github.com/DaniilsLukaMiskins/HabitTracker) (main project)<br>Android habit tracker: mark habits done by date and review history. Archiving a habit keeps its past completions. **My part:** MAUI/MVVM client, REST endpoints and the SQL Server layer.<br>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=flat-square) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square) |  |
-| --- | --- |
-| 🎮 [Nemesis AI](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod) (team hackathon)<br>Minecraft boss that changes tactics mid-fight. **My part:** initial enemy, selectable combat tactics, parasite lifecycle. [My commits](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod/commits?author=DaniilsLukaMiskins)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Minecraft%20Fabric-DBD0B4?style=flat-square) | 🎬 [Cineca](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca) (team project)<br>Film community with reviews, watchlists and recommendations. **My part:** registration/login, four user roles with permission checks, review moderation, a fix for recommendations that suggested films already on the watchlist. [My commits](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca/commits?author=DaniilsLukaMiskins)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TMDB](https://img.shields.io/badge/TMDB%20API-01B4E4?style=flat-square) |
-| 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai) (team hackathon)<br>Checks the primary telemetry feed, switches to a backup when needed and blocks the input if both fail; DataHub traces affected components. **My part:** telemetry validator, fallback manager and tests. [My commits](https://github.com/Sen2x/f1-raceguard-ai/commits?author=DaniilsLukaMiskins) · [Demo](https://youtu.be/F8BEN-nhEmY)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai) (team hackathon)<br>Upload a lunar terrain image, set spacecraft size and safety margin, get three ranked landing zones. **My part:** frontend and integration with the terrain-analysis API. [My commits](https://github.com/Sen2x/lunarsafe-ai/commits?author=DaniilsLukaMiskins)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder)<br>C# console tool that finds duplicate files in Downloads by SHA-256 and writes grouped results to a CSV for manual review.<br>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SHA-256](https://img.shields.io/badge/SHA--256-444?style=flat-square) | |
- 
----
+
