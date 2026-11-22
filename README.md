@@ -1,4 +1,4 @@
-# Hi, I'm Daņiils 👋
+# Hi, I'm Luka (Daņiils Luka Miškins) 👋
 
 CS student at the **University of Latvia** (Software Engineering, 2025–2029), based in Riga.
 Looking for a software engineering internship.
