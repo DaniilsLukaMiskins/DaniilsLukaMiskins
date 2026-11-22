@@ -27,7 +27,7 @@
 Hi, I'm Luka. I'm a second-year Computer Science student at the **University of Latvia**, specializing in **Software Engineering**. My weighted average is **9.033/10**, and I hold a university scholarship for academic achievement.
 
 - 🎮 **What interests me:** game development, AI and cybersecurity, and I'm eager to learn every aspect of computer science. I especially enjoy games that react to how someone plays. That interest led me to build combat mechanics for a Minecraft boss at a team hackathon.
-- 📚 **What I'm learning:** - 📚 **What I'm learning:** C# and .NET by building an Android habit tracker, plus game development, AI and cybersecurity. I've also completed Cisco's *CCNA: Introduction to Networks*.
+- 📚 **What I'm learning:** C# and .NET by building an Android habit tracker, plus game development, AI and cybersecurity. I've also completed Cisco's *CCNA: Introduction to Networks*.
 - 🎯 **My goal:** join a development team for my university internship, contribute code to a project people use, and learn how experienced developers test and review changes.
 - ⚽ **Outside programming:** football, video games, films, literature and travel. I speak Latvian, English and Russian, and hold a German B2 certificate.
 
