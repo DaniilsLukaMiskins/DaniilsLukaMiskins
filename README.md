@@ -57,19 +57,59 @@ Hi, I'm Luka. I'm a second-year Computer Science student at the **University of 
 
 **JetBrains IDEs (CLion)** &nbsp;·&nbsp; **Visual Studio** &nbsp;·&nbsp; **Visual Studio Code**
 
-<details>
-<summary><strong>Frameworks, databases & other tools</strong></summary>
+### 🌐 Web, mobile & databases
 
-| Area | What I've used |
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="42" alt="HTML" title="HTML" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="42" alt="CSS" title="CSS" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="42" alt="React" title="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="42" alt="Express" title="Express" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="42" alt="Laravel" title="Laravel" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="42" alt=".NET" title=".NET" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="42" alt="PostgreSQL" title="PostgreSQL" />
+</p>
+
+| Project | Technologies I used |
 | --- | --- |
-| Mobile & .NET | .NET MAUI, ASP.NET Core Web API, MVVM, Android Emulator |
-| Web development | React, Express, Laravel, Blade, HTML, CSS |
-| Databases | SQL Server, PostgreSQL, Drizzle ORM |
-| Game development | Minecraft Fabric, entity behavior and combat mechanics |
-| Systems & developer tools | Git, GitHub, Windows, Linux, VirtualBox, PC troubleshooting and repair |
-| AI-assisted development | ChatGPT, Claude, Gemini, Codex and Replit Agent for prototyping, code review, testing and automation |
+| **HabitTracker** · Android app | .NET MAUI, MVVM, ASP.NET Core Web API, SQL Server, Android Emulator |
+| **Cineca** · Film community | PHP, Laravel, Blade, HTML, CSS, TMDB API |
+| **FindBack** · Lost and found | React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, Resend |
+| **Nemesis AI** · Game development | Java, Minecraft Fabric, enemy behavior and combat mechanics |
 
-</details>
+### 🖥️ Operating systems & developer tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="42" alt="Linux" title="Linux" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="42" alt="Windows" title="Windows" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="42" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="42" alt="GitHub" title="GitHub" />
+</p>
+
+`Linux (Ubuntu, Linux Mint)` `Windows` `Git` `GitHub` `VirtualBox`
+
+I use Git and GitHub for version control and team projects. I also have hands-on experience with virtual machines, PC troubleshooting, hardware repair and maintenance.
+
+### 🤖 AI tools & agents
+
+<p>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg" width="38" alt="ChatGPT" title="ChatGPT" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg" width="38" alt="Gemini" title="Gemini" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg" width="38" alt="Claude" title="Claude" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" width="38" alt="Codex" title="Codex" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/replit-color.svg" width="38" alt="Replit Agent" title="Replit Agent" />
+</p>
+
+`ChatGPT` `Gemini` `Claude` `Codex` `Replit Agent`
+
+I use AI tools for research, prototyping, code review, testing and workflow automation. In **FindBack**, my campus lost-and-found prototype, I used them across three stages:
+
+- **Design:** I used ChatGPT and Gemini to refine the matching rules. Two reports had to agree on the item type, and a found date could never precede the lost date.
+- **Implementation:** I used Replit Agent to build the reporting flow, match notifications and email integration.
+- **Verification:** I used Claude for static code review and Codex to draft test scenarios. I checked that reports matched regardless of which was submitted first and that the same match triggered only one notification.
 
 ## 🚀 Featured projects
 
@@ -125,14 +165,4 @@ I defined the matching rules, used Replit Agent to build the prototype, and test
 
 **Command-line utility** &nbsp;·&nbsp; `C#` `.NET` `SHA-256` `CSV`
 
-Finds duplicate downloads even when their filenames differ.
 
-**What I built**  
-I used SHA-256 hashes to group files with identical contents, excluded files without a duplicate, and exported the groups to CSV so the user can review them.
-### FindBack · AI-assisted university prototype
-
-A campus lost-and-found app that connects lost and found reports. A possible match must satisfy rules for the item type, date, and identifying details such as colour or location. Users can compare reports side by side and mark an item as returned.
-
-I defined the matching rules, used Replit Agent to build the prototype, and checked edge cases including duplicate notifications and reports created in reverse order.
-
-`React` `TypeScript` `Express` `PostgreSQL` `Drizzle ORM` `Resend`
