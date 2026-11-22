@@ -188,3 +188,4 @@ I use AI tools for research, prototyping, code review, testing and workflow auto
 - **Verification:** I used Claude for static code review and Codex to draft test scenarios. I checked that reports matched regardless of which was submitted first and that the same match triggered only one notification.
 
 
+[<img width="100%" alt="Thanks for visiting" src="https://raw.githubusercontent.com/DaniilsLukaMiskins/DaniilsLukaMiskins/main/footer-banner.svg" />](https://www.linkedin.com/in/daniils-luka-miskins)
