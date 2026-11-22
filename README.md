@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Daņiils Luka Miškins — Computer Science student · University of Latvia" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102538,60:14586B,100:16877D&amp;height=175&amp;section=header&amp;text=Da%C5%86iils%20Luka%20Mi%C5%A1kins&amp;fontColor=FFFFFF&amp;fontSize=40&amp;fontAlignY=39&amp;desc=Software%20Engineering%20%C2%B7%20University%20of%20Latvia&amp;descAlignY=61&amp;descSize=16" />
+<img width="100%" alt="Daņiils Luka Miškins — Computer Science student · University of Latvia" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102538,60:14586B,100:16877D&amp;height=175&amp;section=header&amp;text=Da%C5%86iils%20Luka%20Mi%C5%A1kins&amp;fontColor=FFFFFF&amp;fontSize=40&amp;fontAlignY=39&amp;desc=Computer%20Science%20student%C2%B7%20University%20of%20Latvia&amp;descAlignY=61&amp;descSize=16" />
 
 <p><strong>Open to a software engineering internship from May 2027</strong></p>
 
