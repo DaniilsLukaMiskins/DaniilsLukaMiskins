@@ -2,9 +2,23 @@
 
 <img width="100%" alt="Daņiils Luka Miškins — Computer Science student · University of Latvia" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102538,60:14586B,100:16877D&amp;height=175&amp;section=header&amp;text=Da%C5%86iils%20Luka%20Mi%C5%A1kins&amp;fontColor=FFFFFF&amp;fontSize=40&amp;fontAlignY=39&amp;desc=Software%20Engineering%20%C2%B7%20University%20of%20Latvia&amp;descAlignY=61&amp;descSize=16" />
 
-**Riga, Latvia · Open to a software engineering and IT internship from May 2027**
+<p><strong>Open to a software engineering internship from May 2027</strong></p>
 
-[LinkedIn](https://www.linkedin.com/in/daniils-luka-miskins) &nbsp;·&nbsp; [Email](mailto:daniils.luka.miskins@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/daniils-luka-miskins">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="42" alt="LinkedIn" title="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:daniils.luka.miskins@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="42" alt="Email" title="Email me" />
+  </a>
+</p>
+
+<p>
+  📍 <strong>Riga, Latvia</strong>
+  &nbsp; · &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DaniilsLukaMiskins&amp;label=Profile%20views&amp;color=147D73&amp;style=flat" alt="Profile views" align="absmiddle" />
+</p>
 
 </div>
 
