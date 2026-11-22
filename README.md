@@ -73,7 +73,8 @@ Hi, I'm Luka. I'm a second-year Computer Science student at the **University of 
 | --- | --- |
 | **HabitTracker** · Android app | .NET MAUI, MVVM, ASP.NET Core Web API, SQL Server, Android Emulator |
 | **Cineca** · Film community | PHP, Laravel, Blade, HTML, CSS, TMDB API |
-| **FindBack** · Lost and found | React, TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM, Resend |
+| **F1 RaceGuard AI** · Telemetry validation | Python, telemetry validation, fallback logic, automated tests |
+| **LunarSafe AI** · Landing-zone analysis | TypeScript, React, Native.builder, frontend integration with a FastAPI/OpenCV backend |
 | **Nemesis AI** · Game development | Java, Minecraft Fabric, enemy behavior and combat mechanics |
 
 ### 🖥️ Operating systems & developer tools
