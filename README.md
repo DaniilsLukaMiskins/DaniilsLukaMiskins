@@ -150,14 +150,31 @@ I built registration, login and logout, set up four user roles, and added permis
 
 ---
 
-### 🔎 FindBack
+### 🏎️ [F1 RaceGuard AI](https://github.com/Sen2x/f1-raceguard-ai)
 
-**Campus lost-and-found · University prototype** &nbsp;·&nbsp; `React` `TypeScript` `Express` `PostgreSQL` `Drizzle ORM` `Resend`
+**Telemetry validation · Team hackathon**  
+`Python` `FastAPI` `DataHub` `MCP`
 
-Students can report a lost or found item, compare possible matches side by side, and mark an item as returned. A match takes the item type, date, colour and location into account.
+A race strategy system needs to decide whether it can trust incoming sensor data. RaceGuard checks the primary telemetry feed, switches to a valid backup when needed, and blocks the input if both feeds fail. The system uses DataHub to trace which downstream components are affected.
 
 **My contribution**  
-I defined the matching rules, used Replit Agent to build the prototype, and tested cases where a found report arrives before the lost report. I also checked that the same match triggers only one notification.
+I wrote the telemetry validator and fallback manager that decide which feed reaches the strategy system. I also added tests for fallback behavior and malformed timestamps.
+
+[My commits](https://github.com/Sen2x/f1-raceguard-ai/commits?author=DaniilsLukaMiskins) · [Watch the demo](https://youtu.be/F8BEN-nhEmY)
+
+---
+
+### 🌙 [LunarSafe AI](https://github.com/Sen2x/lunarsafe-ai)
+
+**Computer vision · AI Factory / Native.builder Hackathon**  
+`TypeScript` `React` `Native.builder` · `FastAPI` `OpenCV`
+
+Upload an image of lunar terrain, choose a spacecraft size and safety margin, and see three candidate landing zones ranked on the image. Changing the mission parameters lets you explore how much clearance each site offers.
+
+**My contribution**  
+I built the frontend and connected it to the terrain-analysis API. I added controls for spacecraft size and safety margin, integrated those parameters into the landing analysis, and visualized the candidate zones in the interface.
+
+[My commits](https://github.com/Sen2x/lunarsafe-ai/commits?author=DaniilsLukaMiskins) · [Team roles](https://github.com/Sen2x/lunarsafe-ai#team)
 
 ---
 
