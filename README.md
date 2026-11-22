@@ -19,61 +19,102 @@ Hi, I'm Luka. I'm a second-year Computer Science student at the **University of 
 
 ## 🛠️ Tech stack
 
+### Languages
+
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="42" alt="C++" title="C++" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="42" alt="Python" title="Python" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="42" alt="Java" title="Java" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" width="42" alt="C#" title="C#" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="42" alt="JavaScript" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="42" alt="HTML" title="HTML" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="42" alt="CSS" title="CSS" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="42" alt=".NET" title=".NET" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="42" alt="Git" title="Git" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="42" alt="Linux" title="Linux" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="42" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="42" alt="PHP" title="PHP" />
 </p>
 
-| Area | Languages, tools and experience |
+`C++` `Python` `Java` `C#` `JavaScript` `TypeScript` `PHP` `SQL`
+
+### IDEs & editors
+
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CLion-Dark.svg" width="44" alt="JetBrains CLion" title="JetBrains CLion" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="44" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="44" alt="Visual Studio Code" title="Visual Studio Code" />
+</p>
+
+**JetBrains IDEs (CLion)** &nbsp;·&nbsp; **Visual Studio** &nbsp;·&nbsp; **Visual Studio Code**
+
+<details>
+<summary><strong>Frameworks, databases & other tools</strong></summary>
+
+| Area | What I've used |
 | --- | --- |
-| Programming | C++, Python, Java, JavaScript, C#, SQL |
-| Web development | HTML, CSS, PHP, Laravel, Blade |
-| Mobile & .NET | .NET MAUI, ASP.NET Core Web API, MVVM, Visual Studio |
-| Databases | SQL Server in HabitTracker · PostgreSQL and Drizzle ORM in FindBack |
-| Game development | Java, Minecraft Fabric, entity behavior and combat mechanics |
-| AI-assisted development | ChatGPT, Claude, Gemini, Codex and Replit Agent for prototyping, code review, testing and workflow automation |
-| Systems & tools | Git, GitHub, Windows, Linux, VirtualBox, PC troubleshooting and repair |
+| Mobile & .NET | .NET MAUI, ASP.NET Core Web API, MVVM, Android Emulator |
+| Web development | React, Express, Laravel, Blade, HTML, CSS |
+| Databases | SQL Server, PostgreSQL, Drizzle ORM |
+| Game development | Minecraft Fabric, entity behavior and combat mechanics |
+| Systems & developer tools | Git, GitHub, Windows, Linux, VirtualBox, PC troubleshooting and repair |
+| AI-assisted development | ChatGPT, Claude, Gemini, Codex and Replit Agent for prototyping, code review, testing and automation |
+
+</details>
 
 ## 🚀 Featured projects
 
-### [HabitTracker](https://github.com/DaniilsLukaMiskins/HabitTracker) · Android & .NET
+### 📱 [HabitTracker](https://github.com/DaniilsLukaMiskins/HabitTracker)
 
-An Android app for tracking recurring habits. Pick a date, mark a habit as complete, and check its history later. Archived habits retain their past completions.
+**Android application** &nbsp;·&nbsp; `C#` `.NET MAUI` `ASP.NET Core` `SQL Server`
 
-I developed this university project in stages, starting with a console app and the rules for recording completions. I then built the MAUI client, added REST endpoints for recording completions and archiving habits, and connected the API to SQL Server.
+Choose a date, mark a habit as complete, and review its history. Archiving a habit preserves its past completions.
 
-`C#` `.NET MAUI` `MVVM` `ASP.NET Core` `SQL Server`
+**What I built**  
+I started with a console app to model habits and daily completions. I then built the Android client with MAUI and MVVM, added REST endpoints for completing and archiving habits, and connected the API to SQL Server.
 
-### [Nemesis AI](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod) · Game AI hackathon
+---
 
-A team-built Minecraft mod featuring a boss that adapts to the player. Repeated projectile hits can trigger a zigzag approach, while repeated melee attacks can trigger delayed strikes.
+### 🎮 [Nemesis AI](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod)
 
-**My contribution:** I implemented the initial Fabric mob, added selectable combat tactics, and built the parasite lifecycle. Adult enemies infect farm animals, juveniles emerge and hunt, and surviving juveniles can grow into adult enemies.
+**Game AI · Team hackathon** &nbsp;·&nbsp; `Java` `Minecraft Fabric`
 
-[My commits](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod/commits?author=DaniilsLukaMiskins) · `Java` `Fabric` `Game AI`
+A Minecraft boss that changes tactics during a fight. Hit it repeatedly with projectiles and it can start closing the distance in a zigzag. Repeated melee attacks can trigger delayed strikes.
 
-### [Cineca](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca) · Team web project
+**My contribution**  
+I implemented the initial enemy, added selectable combat tactics, and built its parasite lifecycle. Adult enemies infect farm animals, juveniles emerge and hunt, and surviving juveniles grow into adults.
 
-A film community where users can review movies, manage watchlists and get recommendations based on film data from TMDB.
+[View my commits →](https://github.com/DaniilsLukaMiskins/Nemesis-Minecraft-mod/commits?author=DaniilsLukaMiskins)
 
-**My contribution:** I implemented registration, login and logout, set up four user roles, and added role checks for restricted actions. I also worked on review moderation and fixed the recommendation logic so films already on a user's watchlist are excluded.
+---
 
-[My commits](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca/commits?author=DaniilsLukaMiskins) · `PHP` `Laravel` `Blade` `TMDB API`
+### 🎬 [Cineca](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca)
 
-### [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder) · Desktop utility
+**Web application · Team project** &nbsp;·&nbsp; `PHP` `Laravel` `Blade` `TMDB API`
 
-A C# console tool for finding duplicate downloads even when the filenames differ. It compares file contents using SHA-256, groups matching files, and writes a CSV report so the user can review the duplicates.
+A film community where users review movies, maintain watchlists, and discover films through recommendations.
 
-`C#` `.NET` `SHA-256` `CSV`
+**My contribution**  
+I built registration, login and logout, set up four user roles, and added permission checks for restricted actions. I also worked on review moderation and fixed a recommendation bug that suggested films already on the user's watchlist.
 
+[View my commits →](https://github.com/DaniilsLukaMiskins/Web-technologies-II-poject-Cineca/commits?author=DaniilsLukaMiskins)
+
+---
+
+### 🔎 FindBack
+
+**Campus lost-and-found · University prototype** &nbsp;·&nbsp; `React` `TypeScript` `Express` `PostgreSQL` `Drizzle ORM` `Resend`
+
+Students can report a lost or found item, compare possible matches side by side, and mark an item as returned. A match takes the item type, date, colour and location into account.
+
+**My contribution**  
+I defined the matching rules, used Replit Agent to build the prototype, and tested cases where a found report arrives before the lost report. I also checked that the same match triggers only one notification.
+
+---
+
+### 🗂️ [DupeFinder](https://github.com/DaniilsLukaMiskins/DupeFinder)
+
+**Command-line utility** &nbsp;·&nbsp; `C#` `.NET` `SHA-256` `CSV`
+
+Finds duplicate downloads even when their filenames differ.
+
+**What I built**  
+I used SHA-256 hashes to group files with identical contents, excluded files without a duplicate, and exported the groups to CSV so the user can review them.
 ### FindBack · AI-assisted university prototype
 
 A campus lost-and-found app that connects lost and found reports. A possible match must satisfy rules for the item type, date, and identifying details such as colour or location. Users can compare reports side by side and mark an item as returned.
